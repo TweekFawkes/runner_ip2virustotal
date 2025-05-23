@@ -1,6 +1,6 @@
 runner:
-  name: IP to AlienVault OTX
-  description: Queries via AlienVault OTX for the provided IP address.
+  name: IP to VirusTotal
+  description: Queries via VirusTotal for the provided IP address.
   version: 0.0.1
 
 build:
